@@ -60,6 +60,10 @@
           'legend': {
               'useGraphSettings': true
           },
+            'titles':[{
+            'text':place,
+            'size': 15
+          }],
           'dataProvider': chartsData[place].dataProvider,
           'valueAxes': [{
               'id':'v1',
