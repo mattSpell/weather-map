@@ -7,6 +7,5 @@ It uses:
 * Less
 * Grunt
 * JSHint
-* Node.js
 * jQuery
 * JavaScript (ES6)
